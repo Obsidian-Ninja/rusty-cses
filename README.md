@@ -46,7 +46,7 @@ Explanation (if needed)
 
 Clone the repository:
 
-git clone https://github.com/your-username/rusty-cses.git
+git clone https://github.com/Obsidian-Ninja/rusty-cses.git
 cd rusty-cses
 
 Build and run a specific problem solution:
