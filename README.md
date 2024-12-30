@@ -53,25 +53,5 @@ Build and run a specific problem solution:
 
 cargo run --bin problem_name
 
-## 🤝 Contributing
 
-Contributions are highly encouraged! If you spot an issue, have a better solution, or want to add explanations, feel free to submit a pull request.
-
-Contribution Guidelines:
-
-Follow Rust's best practices.
-
-Ensure code clarity and documentation.
-
-Write meaningful commit messages.
-
-## 📜 License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-## 📲 Contact
-
-For questions, suggestions, or discussions, feel free to open an issue or reach out via [your contact information or GitHub profile].
-
-Happy Coding! 🦀✨
 
